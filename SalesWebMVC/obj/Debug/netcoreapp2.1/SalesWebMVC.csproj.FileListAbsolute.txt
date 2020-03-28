@@ -8,8 +8,6 @@ C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreap
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.dll
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
-C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csprojAssemblyReference.cache
-C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.RazorAssemblyInfo.cache
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.RazorAssemblyInfo.cs
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
@@ -34,3 +32,6 @@ C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreap
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.genruntimeconfig.cache
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CopyComplete
+C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
