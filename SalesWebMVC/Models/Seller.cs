@@ -8,15 +8,22 @@ namespace SalesWebMVC.Models
     public class Seller
     {
         public int Id { get; set; }
+        [Required(ErrorMessage = "{0} required.")]
+        [StringLength(60, MinimumLength = 3, ErrorMessage = "{0} needs to be between {2} and {1} characters.")]
         public string Name { get; set; }
+        [EmailAddress(ErrorMessage = "Enter a valid email.")]
         [DataType(DataType.EmailAddress)]
+        [Required(ErrorMessage = "{0} required.")]
         public string Email { get; set; }
         [Display(Name = "Birthday")]
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
+        [Required(ErrorMessage = "{0} required.")]
         public DateTime BirthDate { get; set; }
+        [Range(1000, 10000, ErrorMessage = "{0} must be from {1} to {2}.")]
         [Display(Name = "Salary")]
         [DisplayFormat(DataFormatString = "{0:F2}")]
+        [Required(ErrorMessage = "{0} required.")]
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
         [Display(Name = "Department")]
