@@ -41,3 +41,4 @@ C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreap
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\Users\jonat\Documents\C#\Projects\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
